@@ -1,0 +1,12 @@
+{
+    "assocKey": [0,1,2,3,4],
+    "levelOne": {
+        "aTrueBool": true,
+        "aFalseBool": false,
+        "levelTwo": {
+            "levelThree": [
+               0,1,2 
+            ]
+        }
+    }
+}
