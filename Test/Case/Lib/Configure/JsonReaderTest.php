@@ -1,5 +1,5 @@
 <?php
-App::uses('JsonReader', 'JsonReader.Config');
+App::uses('JsonReader', 'JsonReader.Configure');
 /**
  * JsonReaderTest 
  * 

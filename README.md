@@ -7,7 +7,7 @@ A simple JsonReader for CakePHP 2 configuration.
 1. Simply place this plugin in your plugin dir (`root/plugins` or `root/app/Plugin`).
 2. In `app/Config/bootstrap.php`:  
 
-        App::uses('JsonReader', 'JsonReader.Config');
+        App::uses('JsonReader', 'JsonReader.Configure');
         Configure::config('jsonReader', new JsonReader); // optionally add a path: new JsonReader($path)
     Then:  
 
